@@ -1,20 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 13 06:02:26 2017
-
-@author: DELL
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  5 20:23:24 2017
-
-@author: DELL
-"""
-
 import numpy as np
-
-
 def compute_melgram(audio_path):
     
 
